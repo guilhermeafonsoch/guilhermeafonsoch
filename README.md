@@ -1,6 +1,6 @@
 ![header-image](.//images.png)
 
-## Olá 👋, meu nome é guilherme e sou estudante de Ciência da Computação com uma paixão por programar e descobrir novas lingiagens e aplicações.
+## Olá 👋, meu nome é guilherme e sou estudante de Ciência da Computação com uma paixão por programar e descobrir novas linguagens e aplicações.
 
 * 🌱 Atualmente estou estudando banco de dados mais afundo 🤣
 * 🎈 Quero aprender mais linguagens de programação 
