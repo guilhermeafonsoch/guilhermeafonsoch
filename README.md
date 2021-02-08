@@ -1,23 +1,24 @@
 ![header-image](.//images.png)
 
-## Olá 👋, meu nome é guilherme e sou estudante de Ciência da Computação com uma paixão por programar e descobrir novas linguagens e aplicações.
+## Olá 👋, meu nome é guilherme e sou estudante de Ciência da Computação com uma paixão por programar e descobrir novas lingiagens e aplicações.
 
-* 🌱 Atualmente estou estudando banco de dados mais afundo 🤣
+ 🌱 Atualmente estou estudando banco de dados mais afundo 🤣
 * 🎈 Quero aprender mais linguagens de programação 
 * 🎉 Em python IA e Machine Learning são meus assuntos prediletos
 
 ### Vamos nos conectar 😀
 
-<a href="ch.afonso.gui@gmail.com"><img align="left" alt="Guilherme Afonso | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
-<a href="https://www.linkedin.com/in/guilhermeafonsoch/"><img align="left" alt="Guilherme Afonso | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
+<a href="ch.afonso.gui@gmail.com"><img align="left" alt="Guilherme Afonso | Gmail" width="22px" src="https://img.icons8.com/office/2x/gmail-login.png"/></a>
+<a href="https://www.linkedin.com/in/guilhermeafonsoch/"><img align="left" alt="Guilherme Afonso | Linkedin" width="22px" src="https://img.icons8.com/cute-clipart/2x/linkedin.png"/></a>
 
 <br />
 
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />
+
+<img align="left" alt="Python" width="26px" src="https://img.icons8.com/dusk/2x/python.png" />
+<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/2x/java-coffee-cup-logo.png" />
 <img align="left" alt="Elixir" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/elixir.svg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
