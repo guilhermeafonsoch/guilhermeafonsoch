@@ -32,5 +32,7 @@
 
 <img align="left" alt="guilherme afonso's github stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=guilhermeafonsoch&show_icons=true&hide_border=true" />
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeafonsoch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
