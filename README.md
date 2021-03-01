@@ -30,11 +30,7 @@
 <br />
 <br />
 
-<<<<<<< HEAD
 ## My Data:
-=======
-## My Data
->>>>>>> 6322458f1135477d77a80596e328b0e544ece705
 ---
 
 [![Guilherme Afonso](https://github-readme-stats.vercel.app/api?username=guilhermeafonsoch&show_icons=true&theme=radical)](https://github.com/guilhermeafonsoch/github-readme-stats)
