@@ -1,5 +1,3 @@
-![header-image](https://4.bp.blogspot.com/--jfiBVhD0tk/W8AgZiqTdyI/AAAAAAAAAFs/vL_e_rYHSWYFioptq98hkMEmvOsJRA7jQCLcBGAs/s640/Software-developer.jpg)
-
 ## Apresentação
 ### Olá 😁 meu nome é Guilherme Afonso e sou estudante de Ciência da Computação da Universidade Presbiteriana Mackenzie São Paulo. Atualmente, estou cursando o terceiro semestre. Tenho paixão por estudar novas linguagens de programação, hoje possuo conhecimento em Java, Python, Elixir. Meus principais interesses são desenvolvimentos web com Java e SpringBoot, Redes Neurais, IA, Machine Learning em python. 
 
