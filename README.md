@@ -21,9 +21,9 @@
 > Life moves pretty fast. If you don't stop and look around once in a while, you could miss it.
 ```
 
-Nao sou desenvolvedor profissional — sou um cara curioso que descobriu que da pra construir coisas legais usando AI como copiloto. Trabalho como Delivery Consultant na IBM e to fazendo pos em Cybersecurity. No tempo livre, codo projetos por diversao e jogo muito R6 Siege (desde 2015) e LoL.
+Não sou desenvolvedor profissional, na verdaade sou uma pessoa curiosa que descobriu que dá pra construir coisas interessantes usando IA como copiloto. Trabalho como Delivery Consultant na IBM e faço pós-graduação em Cybersecurity. No tempo livre, desenvolvo projetos por diversão e passo horas demais jogando R6 Siege (desde 2015) e League of Legends.
 
-I'm not a professional developer — I'm a curious person who discovered you can build cool stuff with AI as your copilot. I work as a Delivery Consultant at IBM and I'm pursuing a postgrad in Cybersecurity. In my free time, I code fun projects and play way too much R6 Siege (since 2015) and League of Legends.
+I'm not a professional developer — I'm a curious person who found out you can build genuinely useful things with AI as your copilot. I work as a Delivery Consultant at IBM and I'm pursuing a postgraduate degree in Cybersecurity. In my free time, I build side projects for fun and spend way too many hours on R6 Siege (since 2015) and League of Legends.
 
 ---
 
